@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2022-10-23 08:54:42 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2022-07-10 18:59:23 +0700"
@@ -374,6 +380,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-13 20:02:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2022-10-22 22:59:39 +0700"
     },
     "done": true
   },
@@ -677,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2022-10-23 07:51:01 +0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-07-10 20:23:29 +0700"
@@ -751,13 +769,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2022-10-23 09:11:30 +0700",
+      "minecraft:magma_cube": "2022-10-22 20:23:06 +0700",
       "minecraft:spider": "2022-10-16 13:04:54 +0700",
       "minecraft:creeper": "2022-10-16 15:00:04 +0700",
       "minecraft:zombified_piglin": "2022-08-21 13:40:20 +0700",
+      "minecraft:witch": "2022-10-23 20:05:12 +0700",
       "minecraft:piglin": "2022-10-16 18:39:38 +0700",
       "minecraft:enderman": "2022-08-28 06:39:19 +0700",
       "minecraft:zombie": "2022-07-10 20:27:39 +0700",
-      "minecraft:drowned": "2022-10-16 13:19:06 +0700"
+      "minecraft:drowned": "2022-10-16 13:19:06 +0700",
+      "minecraft:zombie_villager": "2022-10-23 09:15:00 +0700"
     },
     "done": false
   },
@@ -776,6 +798,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2022-08-27 21:11:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-10-22 21:50:48 +0700"
     },
     "done": true
   },
@@ -842,6 +870,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-10-02 09:00:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2022-10-23 08:54:42 +0700"
     },
     "done": true
   },
@@ -926,6 +960,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-13 20:02:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2022-10-22 22:15:56 +0700"
     },
     "done": true
   },
@@ -1019,6 +1059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-10-22 22:21:49 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-24 18:52:47 +0700"
@@ -1076,6 +1122,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2022-10-16 08:54:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-10-23 07:51:01 +0700"
     },
     "done": true
   },
@@ -1289,6 +1341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-10-22 21:50:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2022-07-10 21:35:41 +0700"
@@ -1316,6 +1374,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-13 20:02:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-10-23 07:51:01 +0700"
     },
     "done": true
   },
@@ -1572,6 +1636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-10-22 21:12:52 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-07-10 18:59:23 +0700"
@@ -1620,6 +1690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-10-23 05:13:43 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-07-10 18:59:23 +0700"
@@ -1638,6 +1714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2022-10-23 08:54:42 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2022-08-14 06:19:06 +0700"
@@ -1647,6 +1729,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2022-07-17 10:33:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2022-10-22 22:15:06 +0700"
     },
     "done": true
   },
@@ -1683,6 +1771,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2022-10-16 12:02:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2022-10-22 22:15:56 +0700"
     },
     "done": true
   },
@@ -1894,6 +1988,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2022-07-24 20:01:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-10-23 07:51:01 +0700"
     },
     "done": true
   },
@@ -2121,6 +2221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2022-10-22 22:15:56 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-07-11 14:33:47 +0700"
@@ -2142,6 +2248,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2022-07-17 10:08:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-10-23 07:51:01 +0700"
     },
     "done": true
   },
@@ -2310,7 +2422,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2022-10-01 20:56:58 +0700",
-      "minecraft:cow": "2022-10-01 20:31:45 +0700"
+      "minecraft:cow": "2022-10-01 20:31:45 +0700",
+      "minecraft:chicken": "2022-10-22 19:56:34 +0700"
     },
     "done": false
   },
@@ -2530,6 +2643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-10-22 22:21:49 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2022-07-10 20:23:30 +0700"
@@ -2680,6 +2799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-10-23 07:51:01 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2022-08-27 19:56:43 +0700"
@@ -2755,6 +2880,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-30 17:02:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-10-23 07:51:01 +0700"
     },
     "done": true
   },
@@ -3082,6 +3213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-10-22 22:21:49 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2022-07-11 14:28:04 +0700"
@@ -3274,6 +3411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-10-23 07:51:01 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2022-10-01 19:28:57 +0700"
@@ -3367,6 +3510,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-13 20:02:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-10-23 07:51:01 +0700"
     },
     "done": true
   },
